@@ -1,0 +1,1 @@
+* Alguns programas feitos ou de maneira difenrente, ou que gostei mais
