@@ -1,10 +1,48 @@
-# CursoEmVideoPython
+# Curso em Vìdeo Python
 
+## Mundo 1 - Fundamentos 
+  * [Mundo1 - Curso em Vídeo completo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+  * [Pasta com arquivos extras do mundo1](https://github.com/JamesFelipe/CursoEmVideoPython/tree/main/Mundo1/Extra_mundo1)
+  * Ex000 - [iniciando](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex000.py)
+  * Ex001 - [Deixando tudo pronto](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex001_deixandoTudoPronto.py)
+  * Ex002 - [Respondendo ao Usuário](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex002_respondendoAoUsuario.py)
+  * Ex003 - [Somando dois Números](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex003_somandoDoisNumeros.py)
+  * Ex004 - [Dissecando uma variável](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex004_dissecandoUmaVariavel.py)
+  * Ex005 - [Predecessor e sucessor](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex005_predecessorESucessor.py)
+  * Ex006 - [Doblo, triplo e raiz quadrada](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex006_dobro_triplo_raiz_quadrada.py)
+  * Ex007 - [Média Aritmética](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex007_mediaAritmetica.py)
+  * Ex008 - [Convesor de medidas](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex008_conversorDeMedidas.py)
+  * Ex009 - [Tabuada](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex009_tabuada.py)
+  * Ex010 - [Convesor de Moedas](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex010_conversorDeMoedas.py)
+  * Ex011 - [Pintando paredes](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex011_pintandoParedes.py)
+  * Ex012 - [Calculando descontos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex012_calculandoDescontos.py)
+  * Ex013 - [Reajuste Salarial](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex013_reajusteSalarial.py)
+  * Ex014 - [Convesor de temperaturas](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex014_conversorDeTemperaturas.py)
+  * Ex015 - [Aluguel de carros](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex015_aluguelDeCarros.py)
+  * Ex016 - [Quebrando um número](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex016_quebrandoUmNumero.py)
+  * Ex017 - [Catetos e hipotenusa](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex017_catetosEHipotenusa.py)
+  * Ex018 - [Seno, cosseno, e tangente](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex018_SenoCossenoTangente.py)
+  * Ex019 - [Sorteando um item na lista](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex019_sorteandoUmItemNaLista.py)
+  * Ex020 - [Sorteando uma ordem na lista](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex020_sorteandoUmaOrdemNaLista.py)
+  * Ex021 - [Tocando um MP3](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex021_TocandoUmMp3.py)
+  * Ex022 - [Analisador de textos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex022_analisadorDeTextos.py)
+  * Ex023 - [Separando Digitos de um número](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex023_separandoDigitosDeUmNumero.py)
+  * Ex024 - [Verificando as primeiras letras de um texto](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex024_verificandoAsPrimeirasLetrasDeUmTexto.py)
+  * Ex025 - [Procurando uma string dentro de outra](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex025_procurandoUmaStringDentroDeOutra.py)
+  * Ex026 - [Primeira e última ocorrência de uma string](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex026_primeiraEUltimaOcorrenciaDeUmaString.py)
+  * Ex027 - [Primeiro e último nome de uma pessoa](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex027_primeiroEUltimoNomeDeUmaPessoa.py)
+  * Ex028 - [Jogo de adivinhação V1](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex028_jogoDeAdivinhacaoV1.py)
+  * Ex029 - [Radar eletrônico](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex029_radarEletronico.py)
+  * Ex030 - [Par ou ímpar](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex030_parOuImpar.py)
+  * Ex031 - [Custo da viagem](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex031_custoDaViagem.py)
+  * Ex032 - [Ano bissexto](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex032_ano_bissexto.py)
+  * Ex033 - [Maior e menor valores](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex033_maiorEMenorValores.py)
+  * Ex034 - [Aumentos múltiplos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex034_aumentosMultiplos.py)
+  * Ex035 - [Analisando Triângulos V1](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex035_analisandoTriangulosV1.py)
 
-* Alguns dos exercícios python do curso em vídeo feitos a minha maneira
-<br>
-Link da pasta de exercícios do curso em vídeo: https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
-<br>
-  Mundo1: Exercícios 1 ao 35
-  <br>
-  Mundo2: 36 ao 
+## Mundo 2 - Estruturas de Controle
+* [Mundo2 - Curso em Vídeo completo](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+* 
+
+## Mundo 3 - Estruturas compostas
+* [Mundo3 - Curso em video completo](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
