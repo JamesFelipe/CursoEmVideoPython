@@ -3,6 +3,8 @@
 ## Mundo 1 - Fundamentos 
   * [Mundo1 - Curso em Vídeo completo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
   * [Pasta com arquivos extras do mundo1](https://github.com/JamesFelipe/CursoEmVideoPython/tree/main/Mundo1/Extra_mundo1)
+
+  \
   * Ex000 - [iniciando](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex000.py)
   * Ex001 - [Deixando tudo pronto](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex001_deixandoTudoPronto.py)
   * Ex002 - [Respondendo ao Usuário](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo1/ex002_respondendoAoUsuario.py)
@@ -42,7 +44,46 @@
 
 ## Mundo 2 - Estruturas de Controle
 * [Mundo2 - Curso em Vídeo completo](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
-* 
+* [Pasta com arquivos extras do Mundo 2](https://github.com/JamesFelipe/CursoEmVideoPython/tree/main/Mundo2/Extra_mundo2)
 
+ \
+* ex036 - [Aprovando Empréstimos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex036_aprovandoEmprestimo.py)
+* ex037 - [Conversor de bases númericas](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex037_conversorDeBasesNumericas.py)
+* ex038 - [Comparando Números](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex038_comparandoNumeros.py)
+* ex039 - [Alistamento militar](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex039_alistamentoMilitar.py)
+* ex040 - [Aquele clássico da Média ](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex040_aqueleClassicoDaMedia.py)
+* ex041 - [Classificando Atletas](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex041_classificandoAtletas.py)
+* ex042 - [Análisando Triângulos V2.0](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex042_analisandoTriangulosV2.py)
+* ex043 - [índice de massa corporal](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex043_indiceDeMassaCorporal.py)
+* ex044 - [Gerenciador de pagamentos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex044_gerenciadorDePagamentos.py)
+* ex045 - [Game: Pedra, papel e tesoura](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex045_GAME_Pedra_papel_tesoura.py)
+* ex046 - [Contagem regressiva](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex046_contagem_regressiva.py)
+* ex047 - [Contagem de Pares](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex047_contagem_de_pares.py)
+* ex048 - [Soma ímpares múltiplos de três](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex048_soma_impares_multiplos_de_tres.py)
+* ex049 - [Tabuada V.2.0](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex049_TabuadaV2.py)
+* ex050 - [Soma dos pares](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex050_soma_dos_pares.py)
+* ex051 - [Progressão Aritmética](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex051_progressao_aritmetica.py)
+* ex052 - [Números primos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex052_numeros_primos.py)
+* ex053 - [Detector de palíndromos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex053_detector_de_palindromos.py)
+* ex054 - [Grupo da maior idade](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex054_grupo_da_maioridade.py)
+* ex055 - [Maior e menor da sequência](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex055_maior_e_menor_da_sequencia.py)
+* ex056 - [Analisador completo](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex056_analisador_completo.py)
+* ex057 - [Validação de dados](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex057_validacao_de_dados.py)
+* ex058 - [Jogo de Adivinhação V2.0](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex058_jogo_de_adivinhacaoV2.py)
+* ex059 - [Criando um menu de opções](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex059_criando_um_menu_de_opcoes.py)
+* ex060 - [Cáclulo do fatorial](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex060_calculo_do_fatorial.py)
+* ex061 - [Progressão aritmética V2.0](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex061_progressao_aritmeticaV2.py)
+* ex062 - [Super Progressão aritmética V3.0](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex062_super_progressao_aritmeticaV3.py)
+* ex063 - [Sequência de Fibonacci](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex063_sequencia_de_fibonacci.py)
+* ex064 - [Tratando vários valores V1.0](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex064_tratando_varios_valoresV1.py)
+* ex065 - [Maior e menor valores](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex065_maior_e_menor_valores.py)
+* ex066 - [Vários números com flag](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex066_varios_numeros_com_flag.py)
+* ex067 - [Tabuada V3.0](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex067_tabuadaV3.py)
+* ex068 - [Jogo do par ou ímpar](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex068_jogo_do_par_ou_impar.py)
+* ex069 - [Análise de dados do grupo](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex069_analise_de_dados_do_grupo.py)
+* ex070 - [Estátisticas em produtos](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex070_estatistca_em_varios_produtos.py)
+* ex071 - [Simulador de caixa eletrônico](https://github.com/JamesFelipe/CursoEmVideoPython/blob/main/Mundo2/ex071_simulador_de_caixa_eletronico.py)
+
+\
 ## Mundo 3 - Estruturas compostas
 * [Mundo3 - Curso em video completo](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
